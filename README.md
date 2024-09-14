@@ -8,6 +8,7 @@ run from your terminal
 
 output looks a bit like this:
 #############################
+
 $ perl pfetch.pl 
 PerlFetch
 
